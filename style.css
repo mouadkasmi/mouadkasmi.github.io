@@ -1,20 +1,20 @@
-*
-{
+@import url("http://fonts.cdnfonts.com/css/agustina");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
   margin: 0;
   padding: 0;
 }
 
-body, html
-{
+body,
+html {
   width: 100%;
   height: 100%;
-  background: url(https://source.unsplash.com/1600x900/?developer) no-repeat;
+  background: url("bg.jpg") no-repeat;
   background-size: cover;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.container
-{
+.container {
   height: 100%;
   width: 100%;
   background: #2c3e50b3;
@@ -23,33 +23,48 @@ body, html
   align-items: center;
 }
 
-.container h1
-{
+.container h1 {
   color: white;
   font-size: 5em;
   font-weight: 900;
   text-transform: uppercase;
 }
 
-.container h1 span
-{
+.container h1 span {
   display: block;
-  background: #2ecc71;
+  background: #b1b2b1;
   padding: 0 10px;
 }
-
-.menu
-{
+.logo-container .logo {
+  display: block;
+  float: left;
+  font-size: 1.5em;
+  text-decoration: none;
+  margin-top: 10px;
+  line-height: normal;
+}
+.logo-container .logo-name {
+  font-family: "Agustina", sans-serif;
+  font-weight: 700;
+  padding: 0 10px;
+}
+.logo-container {
   position: absolute;
   top: 40px;
   left: 40px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.menu {
+  position: absolute;
+  top: 40px;
+  right: 40px;
   overflow: hidden;
   width: 50px;
   cursor: pointer;
 }
 
-.menu  span
-{
+.menu span {
   height: 3px;
   display: block;
   margin: 6px;
@@ -57,17 +72,15 @@ body, html
   transition: 0.4s all;
 }
 
-.s1, .s3
-{
+.s1,
+.s3 {
   width: 100%;
 }
 
-.s2
-{
+.s2 {
   width: 70%;
 }
 
-.menu > a:hover > .s2
-{
+.menu > a:hover > .s2 {
   width: 100%;
 }
