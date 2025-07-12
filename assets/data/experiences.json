@@ -1,0 +1,88 @@
+[
+  {
+    "company": "Digimperial",
+    "position": "Lead Full Stack Developer & Project Manager",
+    "date": "2023 - Present, Fulltime",
+    "description": "Led the development of several SaaS platforms and e-commerce websites, managing both front-end and back-end tasks. Transformed Figma designs into responsive, accessible websites with pixel-perfect precision. Applied advanced performance optimizations to ensure smooth user experiences. Collaborated closely with designers and marketers to maintain visual and technical consistency. Enforced best practices in SEO, accessibility, and web performance.",
+    "tools": [
+      "html",
+      "css",
+      "typescript",
+      "react",
+      "tailwind",
+      "laravel",
+      "figma",
+      "sql",
+      "git",
+      "api"
+    ]
+  },
+  {
+    "company": "CREADEV",
+    "position": "Full Stack Developer",
+    "date": "2021 - 2022, Fulltime",
+    "description": "Developed scalable SaaS applications and business-oriented platforms. Refactored and optimized legacy codebases for better performance and maintainability. Designed and implemented RESTful APIs to support modern web architectures and enhance integration capabilities.",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "laravel",
+      "figma",
+      "sql",
+      "git",
+      "api"
+    ]
+  },
+  {
+    "company": "Manager Plus",
+    "position": "Full Stack Developer & Lead Technical",
+    "date": "2020 - 2021, Fulltime",
+    "description": "Led the design and development of custom web solutions tailored to client needs. Managed projects from conception to deployment while ensuring clean, reusable code. Directed a small team of developers and oversaw all phases of technical implementation.",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "laravel",
+      "figma",
+      "sql",
+      "git",
+      "api"
+    ]
+  },
+  {
+    "company": "ENSAM - Casablanca",
+    "position": "Full Stack Developer",
+    "date": "2020 - 2021, Internship",
+    "description": "Built the official school website and an internal absence management app. Handled both front-end design integration and server-side development. Delivered fully functional solutions independently, demonstrating versatility and attention to detail.",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "laravel",
+      "figma",
+      "sql",
+      "git",
+      "api"
+    ]
+  },
+  {
+    "company": "Nadasoft",
+    "position": "Full Stack Developer",
+    "date": "2019 - 2020, Internship",
+    "description": "Contributed to the development of web applications with a focus on user experience and performance. Collaborated with cross-functional teams to deliver high-quality software solutions. Utilized modern web technologies to enhance application features and maintainability.",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "laravel",
+      "figma",
+      "sql",
+      "git",
+      "api"
+    ]
+  }
+]
