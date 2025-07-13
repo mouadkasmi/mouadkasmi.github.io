@@ -1,0 +1,58 @@
+[
+  {
+    "image": "assets/images/projects/brandplus.png",
+    "name": "Brand Management Platform",
+    "company": "Digimperial",
+    "description": "I developed the Brandplus solution website for Digimperial, a modern SaaS platform designed to help Moroccan businesses manage and grow their brands efficiently. The project involved building a fast, responsive interface integrated with a scalable request handling system. Brandplus is currently in beta, serving over 20 local brands, and allows users to schedule demos and join an exclusive waitlist. The site reflects Digimperial’s AI-driven mission, offering a seamless user experience across desktop and mobile.",
+    "url": "https://brandplus.ma"
+  },
+  {
+    "image": "assets/images/projects/rawaa-beauty.png",
+    "name": "E‑commerce Beauty & Modestwear",
+    "company": "by_rawaabeauty",
+    "description": "I developed and deployed the Rawaa Beauty ecommerce website, a responsive online store featuring beauty products and modestwear from a Moroccan label. Built-in multiple currencies (MAD, EUR, USD), customer account system, shopping cart, and newsletter integration. The site is paired with a strong Instagram presence (~4 M followers) managed by the brand owner and supports product showcases, reels, and appointment bookings through WMS admin.",
+    "url": "https://rawaabeauty.com"
+  },
+  {
+    "image": "assets/images/projects/fatin.png",
+    "name": "Online Beauty & Fragrance Shop",
+    "company": "fatin.ma",
+    "description": "I built and launched the responsive e‑commerce platform for Fatin Parfumerie, a Moroccan online retailer specializing in perfumes, deodorants, and beauty care. Developed on WordPress with custom cart and payment workflows, multi-category catalog (men’s and women’s scents), product bundles (flavor packs), and streamlined checkout with cash‑on‑delivery and online payment options. The site supports marketing content, customer testimonials, and dynamic product listings.",
+    "url": "https://fatin.ma"
+  },
+  {
+    "image": "assets/images/projects/kassratoud.png",
+    "name": "Premium Home Fragrances & Bakhoor",
+    "company": "kassratoud.com",
+    "description": "I developed the responsive Kassratoud website, an elegant platform for showcasing premium home fragrances, interior perfumes, and traditional bakhoor. Features include a clean product gallery, fragrance descriptions, and seamless integration with social channels (Instagram & TikTok). Designed for rich visuals, mobile-first user experience, and easy navigation to support sales and brand storytelling.",
+    "url": "https://kassratoud.com"
+  },
+  {
+    "image": "assets/images/projects/aliceparis.png",
+    "name": "Wellness Brand Website (Morocco)",
+    "company": "Alice Paris Morocco",
+    "description": "I developed the official Moroccan website for Alice Paris from scratch, based on custom Figma designs and aligned with the French brand’s identity. The site showcases wellness and beauty products like collagen, fat burners, and serums, with support for multiple languages (FR/EN/AR), responsive design, and custom-built product catalog and cart. The site includes smooth transitions, a mobile-first layout, and clean integration with social proof, testimonials, and legal/policy pages.",
+    "url": "https://aliceparis.ma"
+  },
+  {
+    "image": "assets/images/projects/authenticlab.png",
+    "name": "Natural Wellness Brand",
+    "company": "Authentic Laboratory",
+    "description": "I designed and developed the multi‑language (FR/EN/AR), responsive website for Authentic Laboratory from the ground up. The platform showcases premium natural health & wellness products (Zitalgic®, Relaxoil®, Detoxoil®, Zitalgic® Sport), integrates product detail pages, professional brand storytelling, customer testimonials, distributor network, blog section, and contact forms. I implemented SEO‑friendly architecture, fast performance, and a mobile‑first user experience aligned with the brand’s science‑meets‑nature identity.",
+    "url": "https://authenticlab.ma"
+  },
+  {
+    "image": "assets/images/projects/gotflow.png",
+    "name": "E‑commerce & Affiliate SaaS",
+    "company": "Digimperial",
+    "description": "I developed the responsive Gotflow.io platform for Digimperial, a SaaS solution empowering cash‑on‑delivery ecommerce business owners across MENA and Europe. Built from Figma to production, it includes features like product sourcing from global suppliers, inventory & order dashboards, analytics, affiliate marketplace listings, and call‑center tools. Highlights include tiered subscription, multilingual support (EN/AR), smooth UX/UI, and integrations with shipping providers like DHL, Aramex, Shopify, and more.",
+    "url": "https://gotflow.io"
+  },
+  {
+    "image": "assets/images/projects/inovad.png",
+    "name": "AI‑Driven Ad‑Accounts Platform",
+    "company": "Digimperial",
+    "description": "I developed Inovad.io from scratch, transforming Figma designs into a fully functional multilingual (EN/FR) SaaS site. The platform offers AI‑powered ad account creation and scaling for TikTok, Snapchat, Google, and Facebook, backed by account warming, pixel & landing‑page tools, secure KYC processes, and compliance mechanisms. The site includes services pages, FAQ, client testimonials, multilingual UI, a contact portal, and connection to Digimperial's ad‑tech ecosystem.",
+    "url": "https://inovad.io"
+  }
+]
